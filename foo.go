@@ -1,2 +1,2 @@
 package foo
-func Foo() {}  // expect golint exported without comment
+func Bar() {}  // expect golint exported without comment
